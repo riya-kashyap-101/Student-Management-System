@@ -23,7 +23,7 @@ public class StudentDao {
 
             ps.executeUpdate();
 
-            System.out.println("Student added successfully!");
+            System.out.println("Student added successfully!!");
 
         } catch (Exception e) {
             e.printStackTrace();
